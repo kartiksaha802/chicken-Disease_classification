@@ -1,0 +1,32 @@
+2023-07-28 15:08:53,846 [INFO]: File created: .github/workflows/.gitkeep
+2023-07-28 15:08:53,847 [INFO]: File created: src/cnnClassifier/__init__.py
+2023-07-28 15:08:53,848 [INFO]: File created: src/cnnClassifier/components/__init__.py
+2023-07-28 15:08:53,849 [INFO]: File created: src/cnnClassifier/utils/__init__.py
+2023-07-28 15:08:53,850 [INFO]: File created: src/cnnClassifier/config/__init__.py
+2023-07-28 15:08:53,850 [INFO]: File created: src/cnnClassifier/config/configuration.py
+2023-07-28 15:08:53,852 [INFO]: File created: src/cnnClassifier/pipeline/__init__.py
+2023-07-28 15:08:53,853 [INFO]: File created: src/cnnClassifier/entity/__init__.py
+2023-07-28 15:08:53,855 [INFO]: File created: src/cnnClassifier/constants/__init__.py
+2023-07-28 15:08:53,855 [INFO]: File created: config.yaml
+2023-07-28 15:08:53,856 [INFO]: File created: dvc.yaml
+2023-07-28 15:08:53,856 [INFO]: File created: params.yaml
+2023-07-28 15:08:53,857 [INFO]: File created: requirements.txt
+2023-07-28 15:08:53,859 [INFO]: File created: setup.py
+2023-07-28 15:08:53,859 [INFO]: File created: trials.ipynb
+2023-07-28 15:08:53,861 [INFO]: File created: index.html
+2023-07-28 15:08:57,588 [INFO]: File already exists: .github/workflows/.gitkeep
+2023-07-28 15:08:57,590 [INFO]: File already exists: src/cnnClassifier/__init__.py
+2023-07-28 15:08:57,590 [INFO]: File already exists: src/cnnClassifier/components/__init__.py
+2023-07-28 15:08:57,590 [INFO]: File already exists: src/cnnClassifier/utils/__init__.py
+2023-07-28 15:08:57,591 [INFO]: File already exists: src/cnnClassifier/config/__init__.py
+2023-07-28 15:08:57,591 [INFO]: File already exists: src/cnnClassifier/config/configuration.py
+2023-07-28 15:08:57,591 [INFO]: File already exists: src/cnnClassifier/pipeline/__init__.py
+2023-07-28 15:08:57,593 [INFO]: File already exists: src/cnnClassifier/entity/__init__.py
+2023-07-28 15:08:57,595 [INFO]: File already exists: src/cnnClassifier/constants/__init__.py
+2023-07-28 15:08:57,598 [INFO]: File already exists: config.yaml
+2023-07-28 15:08:57,602 [INFO]: File already exists: dvc.yaml
+2023-07-28 15:08:57,604 [INFO]: File already exists: params.yaml
+2023-07-28 15:08:57,605 [INFO]: File already exists: requirements.txt
+2023-07-28 15:08:57,606 [INFO]: File already exists: setup.py
+2023-07-28 15:08:57,607 [INFO]: File already exists: trials.ipynb
+2023-07-28 15:08:57,607 [INFO]: File already exists: index.html
