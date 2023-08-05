@@ -1,4 +1,3 @@
-# chicken-Disease_classification
 Project Description:
 This project utilizes deep learning models and MLOps techniques to detect poultry diseases by analyzing fecal images of chickens. Specifically, it distinguishes between healthy fecal samples and those infected with coccidiosis. The modular codebase incorporates DVC for efficient data management. The application is built using Flask and deployed on cloud platforms like AWS and Azure through Docker, ensuring scalability and ease of access.
 
@@ -15,6 +14,7 @@ Early Disease Detection: Enables timely intervention and reduces impact on chick
 Resource Optimization: Targeted treatment leads to optimized resource utilization.
 Cloud Deployment: Scalable and accessible from anywhere.
 Research Advancements: A valuable resource for further research in poultry disease detection using deep learning.
+
 
 
 
